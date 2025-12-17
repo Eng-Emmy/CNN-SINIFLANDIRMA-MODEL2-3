@@ -5,7 +5,9 @@ KENDİ GÖRÜNTÜ VERİ SETİNİZLE CNN SINIFLANDIRMA MODELİ GELİŞTİRİN
 Adınız: Emmanuel
 Soyadınız: HAKIRUWIZERA
 Okul Numaranız: 2440631002
-GitHub Repo Bağlantısı:
+GitHub Repo Bağlantısı: https://github.com/Eng-Emmy/CNN-SINIFLANDIRMA-MODEL2-3
+
+
 Proje Açıklaması
 Bu proje, iPhone kamerasıyla çekilmiş 400 görüntüden oluşan özel bir veri kümesi kullanarak görüntü sınıflandırması için Evrişimli Sinir Ağı (CNN) modelleri geliştirmeye ve iyileştirmeye odaklanmaktadır. Veri kümesi, bilgisayarla görme görevleri için düzenlenmiş ve eğitim, doğrulama ve test setlerine ayrılmıştır.
 
